@@ -63,7 +63,7 @@ Overall, this exercise provided me with a comprehensive understanding of data en
 
 ##  Results produced:
 
-![Screenshot 2023-07-23 at 9 05 31 PM](https://github.com/yannellym/SQL_DATA_Engineer_Exercise/assets/91508647/779b4bdd-abb1-49b9-a32e-9bdb0d154078)
+![Screenshot 2023-07-24 at 7 20 13 PM](https://github.com/yannellym/SQL_DATA_Engineer_Exercise/assets/91508647/92eed3e4-791f-4aea-ac1d-14ef7c5e9e66)
 
 ## Additional Information
 
